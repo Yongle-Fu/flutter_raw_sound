@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
   // Buffer size of the underlying audio track (Android only)
   static int bufferSize = 4096 << 4;
   // Number of channels, either 1 or 2
-  static int nChannels = 1;
+  static int nChannels = 1; // 2
   // Sample rate for playback in Hz
   static int sampleRate = 16000;
 

@@ -1,8 +1,9 @@
 name: raw_sound
 description: A flutter plugin for playing raw PCM audio data (16-bit integer and 32-bit float).
-version: 0.3.1
+version: 0.3.2
 homepage: https://github.com/8fdafs2/flutter_raw_sound
 repository: https://github.com/8fdafs2/flutter_raw_sound
+publish_to: https://dart-pub.brainco.cn
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
